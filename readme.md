@@ -331,11 +331,11 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi)
 
 - Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&show_icons=true)
 
 - Customize Border Color
 
@@ -385,7 +385,7 @@ You usually won't be able to layout the images side by side. To do that you can 
 <a href="https://github.com/IAlzoriqi/IAlzoriqi">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=github-readme-stats"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=IAlzoriqi"
   />
 </a>
 <a href="https://github.com/IAlzoriqi/convoychat">
