@@ -308,18 +308,18 @@ You can use the `&layout=compact` option to change the card design.
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
 ```
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_progress=true)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 - Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 ---
 
@@ -373,7 +373,7 @@ Choose from any of the [default themes](#themes)
 
 - Wakatime card
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 ---
 
