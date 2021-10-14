@@ -327,11 +327,11 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8&exclude_repo=github-readme-stats,IAlzoriqi.github.io))
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8&))
 
 - Showing icons
 
