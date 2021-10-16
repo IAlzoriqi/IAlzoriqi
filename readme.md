@@ -21,28 +21,14 @@
 
 ### Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,Web-CV,IAlzoriqi.github.io,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi,github.com/IAlzoriqi/IAlzoriqi.github.io&langs_count=5&layout=compact&include-private=true&include_private=true&include_all_repo=true&include_private_repo=true&repo=my_guide_at_my_phone&include_repo=my_guide_at_my_phon)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-### Demo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=7&exclude_repo=libraryManagement,Web-CV,IAlzoriqi.github.io,github-readme-stats,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,Objective-C,JavaScript,Kotlin&include-private=true&include_private=true&include_all_repo=true&include_private_repo=true&repo=my_guide_at_my_phone&include_repo=my_guide_at_my_phone)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=SalesManagementSoftware,IAlzoriqi.github.io&&langs_count=10&hide=PHP,Kotlin,Objective-C,CSS,C++,Hack&include-private=true&include_private=true&include_all_repo=true)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=10&exclude_repo=github-readme-stats,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,C#,JavaScript,Objective-C,Kotlin,C++)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=10&exclude_repo=github-readme-stats,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,C#,JavaScript,Objective-C,Kotlin,C++)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-- Compact layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,Web-CV,IAlzoriqi.github.io,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi,github.com/IAlzoriqi/IAlzoriqi.github.io&langs_count=5&include-private=true&include_private=true&include_all_repo=true&include_private_repo=true&repo=my_guide_at_my_phone&include_repo=my_guide_at_my_phon)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 # Wakatime Week Stats
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide=html)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&langs_count=5&hide=html)](https://github.com/IAlzoriqi/IAlzoriqi)
 ```
 
 ### Demo
