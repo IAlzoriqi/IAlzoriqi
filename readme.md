@@ -293,7 +293,7 @@ You can use the `&layout=compact` option to change the card design.
 
 ### Demo
 
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=SalesManagementSoftware,IAlzoriqi.github.io&&langs_count=10&hide=HTML,JavaScript,PHP,Kotlin,Objective-C,CSS,Hack&show_private=true)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=SalesManagementSoftware,IAlzoriqi.github.io&&langs_count=10&hide=HTML,JavaScript,PHP,Kotlin,Objective-C,CSS,Hack&show_private=true)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=10&exclude_repo=github-readme-stats,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,C#,JavaScript,Objective-C,Kotlin,C++)](https://github.com/IAlzoriqi/IAlzoriqi)
 
