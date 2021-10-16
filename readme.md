@@ -268,16 +268,14 @@ Endpoint: `api/top-langs?username=IAlzoriqi`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,IAlzoriqi.github.io)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=MyGuideAtMyPhone,TestMyGuideAtMyPhone,my_guide_at_my_phone&langs_count=10&hide=C#)](https://github.com/IAlzoriqi/IAlzoriqi)
 ```
 
 ### Hide individual languages
 
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
-```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
-```
 
 ### Show more languages
 
@@ -291,11 +289,13 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 
 You can use the `&layout=compact` option to change the card design.
 
-```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
-```
 
 ### Demo
+https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=SalesManagementSoftware,IAlzoriqi.github.io&&langs_count=10&hide=HTML,JavaScript,PHP,Kotlin,Objective-C,CSS,Hack&show_private=true
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=10&exclude_repo=github-readme-stats,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,C#,JavaScript,Objective-C,Kotlin,C++)](https://github.com/IAlzoriqi/IAlzoriqi)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=10&exclude_repo=github-readme-stats,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,C#,JavaScript,Objective-C,Kotlin,C++)](https://github.com/IAlzoriqi/IAlzoriqi)
 
@@ -385,13 +385,13 @@ You usually won't be able to layout the images side by side. To do that you can 
 <a href="https://github.com/IAlzoriqi/IAlzoriqi">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=IAlzoriqi"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
   />
 </a>
-<a href="https://github.com/IAlzoriqi/convoychat">
+<a href="https://github.com/IAlzoriqi/TestMyGuideAtMyPhone">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=convoychat"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
   />
 </a>
 ```
