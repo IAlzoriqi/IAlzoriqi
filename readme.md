@@ -62,13 +62,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 <a href="https://github.com/IAlzoriqi/IAlzoriqi">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=IAlzoriqi"
   />
 </a>
-<a href="https://github.com/IAlzoriqi/TestMyGuideAtMyPhone">
+<a href="https://github.com/IAlzoriqi/IAlzoriqi">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=IAlzoriqi"
   />
 </a>
 ### Quick Tip (Align The Repo Cards)
