@@ -59,16 +59,16 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ---
 
-<a href="https://github.com/IAlzoriqi/IAlzoriqi">
+<a href="https://github.com/IAlzoriqi/CivilStatusSystemNew">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=IAlzoriqi"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=CivilStatusSystemNew"
   />
 </a>
-<a href="https://github.com/IAlzoriqi/IAlzoriqi">
+<a href="https://github.com/IAlzoriqi/CivilStatusSystemNew">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=IAlzoriqi"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=CivilStatusSystemNew "
   />
 </a>
 ### Quick Tip (Align The Repo Cards)
