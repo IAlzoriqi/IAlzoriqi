@@ -35,7 +35,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 [![IAlzoriqi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
 
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_progress=true)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_progress=true&hide_lang=html)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 - Compact layout
 
@@ -47,7 +47,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8&exclude_repo=github-readme-stats,IAlzoriqi.github.io&count-private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count-private=true&count-private=true$isfork=false))
 
 - Hiding specific stats
 
