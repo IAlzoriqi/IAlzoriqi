@@ -21,26 +21,18 @@
 
 # Wakatime Week Stats
 
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_progress=true&hide_lang=html)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-- Compact layout
-
-[![IAlzoriqi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_lang=html)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 - GitHub stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true&include_all_commits=true)
 
-- Customizing repo card
+- My repo card
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
-
-- Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true)](https://github.com/IAlzoriqi/IAlzoriqi)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=SalesManagementSoftware)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=CivilStatusSystemNew)
 
 - Wakatime card
 
@@ -48,6 +40,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ---
 
+<!--
 <a href="https://github.com/IAlzoriqi/CivilStatusSystemNew">
   <img
     align="center"
@@ -79,27 +72,12 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 <a href="https://github.com/IAlzoriqi/CivilStatusSystemNew">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=CivilStatusSystemNew "
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=c "
   />
 </a>
-### Quick Tip (Align The Repo Cards)
+### Quick Tip (Align The Repo Cards) -->
 
 You usually won't be able to layout the images side by side. To do that you can use this approach:
-
-```html
-<a href="https://github.com/IAlzoriqi/IAlzoriqi">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
-  />
-</a>
-<a href="https://github.com/IAlzoriqi/TestMyGuideAtMyPhone">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
-  />
-</a>
-```
 
 ## Deploy on your own Vercel instance
 
