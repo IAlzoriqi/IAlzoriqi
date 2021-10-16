@@ -4,15 +4,15 @@
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/IAlzoriqi/IAlzoriqi/actions">
+    <!-- <a href="https://github.com/IAlzoriqi/IAlzoriqi/actions">
       <img alt="Tests Passing" src="https://github.com/IAlzoriqi/IAlzoriqi/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/IAlzoriqi/IAlzoriqi">
+    </a> -->
+    <!-- <a href="https://codecov.io/gh/IAlzoriqi/IAlzoriqi">
       <img src="https://codecov.io/gh/IAlzoriqi/IAlzoriqi/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/IAlzoriqi/IAlzoriqi/issues">
+    </a> -->
+    <!-- <a href="https://github.com/IAlzoriqi/IAlzoriqi/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/IAlzoriqi/IAlzoriqi?color=0088ff" />
-    </a>
+    </a> -->
     <a href="https://github.com/IAlzoriqi/IAlzoriqi/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/IAlzoriqi/IAlzoriqi?color=0088ff" />
     </a>
