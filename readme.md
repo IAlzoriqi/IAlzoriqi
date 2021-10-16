@@ -15,10 +15,6 @@
   </p>
 </p>
 
-<!-- ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&langs_count=10)](https://github.com/IAlzoriqi/IAlzoriqi)
-``` -->
-
 ### Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,Web-CV,IAlzoriqi.github.io,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi,github.com/IAlzoriqi/IAlzoriqi.github.io&langs_count=5&include-private=true&include_private=true&include_all_repo=true&include_private_repo=true&repo=my_guide_at_my_phone&include_repo=my_guide_at_my_phon)](https://github.com/IAlzoriqi/IAlzoriqi)
@@ -26,14 +22,6 @@
 # Wakatime Week Stats
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-```md
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&langs_count=5&hide=html&count-private=true$isfork=false)](https://github.com/IAlzoriqi/IAlzoriqi)
-```
-
-### Demo
-
-[![IAlzoriqi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 [![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_progress=true&hide_lang=html)](https://github.com/IAlzoriqi/IAlzoriqi)
 
@@ -48,6 +36,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 - Customizing repo card
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
 
 - Top languages
 
