@@ -90,6 +90,8 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&border_color=2e4058&count-private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true)
+
 - Include All Commits
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&include_all_commits=true&count-private=true))
