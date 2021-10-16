@@ -59,6 +59,18 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ---
 
+<a href="https://github.com/IAlzoriqi/IAlzoriqi">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
+  />
+</a>
+<a href="https://github.com/IAlzoriqi/TestMyGuideAtMyPhone">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=TestMyGuideAtMyPhone"
+  />
+</a>
 ### Quick Tip (Align The Repo Cards)
 
 You usually won't be able to layout the images side by side. To do that you can use this approach:
