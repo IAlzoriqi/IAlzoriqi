@@ -293,7 +293,7 @@ You can use the `&layout=compact` option to change the card design.
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=SalesManagementSoftware,IAlzoriqi.github.io&&langs_count=10&hide=HTML,JavaScript,PHP,Kotlin,Objective-C,CSS,Hack&show_private=true)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=SalesManagementSoftware,IAlzoriqi.github.io&&langs_count=10&hide=HTML,PHP,Kotlin,Objective-C,CSS,Hack&show_private=true&include_all_repo=true)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&count-private=true&langs_count=10&exclude_repo=github-readme-stats,github.com/IAlzoriqi/IAlzoriqi&hide=CSS,html,Hack,kotlin,Swift,C#,JavaScript,Objective-C,Kotlin,C++)](https://github.com/IAlzoriqi/IAlzoriqi)
 
@@ -308,7 +308,7 @@ You can use the `&layout=compact` option to change the card design.
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide=html)](https://github.com/IAlzoriqi/IAlzoriqi)
 ```
 
 ### Demo
@@ -331,7 +331,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8&&count-private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8&count-private=true))
 
 - Showing icons
 
@@ -343,7 +343,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&include_all_commits=true&count-private=true))
 
 - Themes
 
