@@ -15,24 +15,11 @@
   </p>
 </p>
 
-# Features
 
-- [GitHub Stats Card](#github-stats-card)
-- [GitHub Extra Pins](#github-extra-pins)
-- [Top Languages Card](#top-languages-card)
-- [Wakatime Week Stats](#wakatime-week-stats)
-- [Themes](#themes)
-- [Customization](#customization)
-  - [Common Options](#common-options)
-  - [Stats Card Exclusive Options](#stats-card-exclusive-options)
-  - [Repo Card Exclusive Options](#repo-card-exclusive-options)
-  - [Language Card Exclusive Options](#language-card-exclusive-options)
-  - [Wakatime Card Exclusive Option](#wakatime-card-exclusive-options)
-- [Deploy Yourself](#deploy-on-your-own-vercel-instance)
 
-```md
+<!-- ```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&langs_count=10)](https://github.com/IAlzoriqi/IAlzoriqi)
-```
+``` -->
 
 ### Compact Language Card Layout
 
