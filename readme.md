@@ -28,7 +28,7 @@
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&langs_count=5&hide=html)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&langs_count=5&hide=html&count-private=true$isfork=false)](https://github.com/IAlzoriqi/IAlzoriqi)
 ```
 
 ### Demo
