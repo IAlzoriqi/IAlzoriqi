@@ -21,7 +21,7 @@
 
 ### Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,Web-CV,IAlzoriqi.github.io,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi,github.com/IAlzoriqi/IAlzoriqi.github.io&langs_count=5&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,Web-CV,IAlzoriqi.github.io,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi,github.com/IAlzoriqi/IAlzoriqi.github.io&langs_count=5&layout=compact&include-private=true&include_private=true&include_all_repo=true&include_private_repo=true&repo=my_guide_at_my_phone&include_repo=my_guide_at_my_phon)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 ### Demo
 
