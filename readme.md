@@ -41,27 +41,9 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 [![IAlzoriqi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&layout=compact)](https://github.com/IAlzoriqi/IAlzoriqi)
 
----
+- GitHub stats
 
-### All Demos
-
-- Default
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count-private=true&count-private=true$isfork=false))
-
-- Hiding specific stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&langs_count=8&count-private=true))
-
-- Showing icons
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&show_icons=true&count-private=true)
-
-- Customize Border Color
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&border_color=2e4058&count-private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true&include_all_commits=true)
 
 - Include All Commits
 
