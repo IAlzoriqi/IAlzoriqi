@@ -45,31 +45,9 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true&include_all_commits=true)
 
-- Include All Commits
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&include_all_commits=true&count-private=true))
-
-- Themes
-
-Choose from any of the [default themes](#themes)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&show_icons=true&theme=radical)
-
-- Gradient
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-- Customizing stats card
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IAlzoriqi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-- Setting card locale
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=IAlzoriqi&locale=es)
-
 - Customizing repo card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
 
 - Top languages
 
