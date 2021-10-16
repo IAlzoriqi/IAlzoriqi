@@ -65,6 +65,28 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
     src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=CivilStatusSystemNew"
   />
 </a>
+
+</br>
+</br>
+
+<a href="https://github.com/IAlzoriqi/libraryManagement ">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=libraryManagement"
+  />
+</a>
+
+</br>
+</br>
+<a href="https://github.com/IAlzoriqi/SalesManagementSoftware ">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=IAlzoriqi&repo=SalesManagementSoftware"
+  />
+</a>
+
+</br>
+</br>
 <a href="https://github.com/IAlzoriqi/CivilStatusSystemNew">
   <img
     align="center"
