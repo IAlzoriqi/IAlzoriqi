@@ -28,6 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true&include_all_commits=true)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=SalesManagementSoftware)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
+</br>
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=CivilStatusSystemNew)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
 
