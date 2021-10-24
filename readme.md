@@ -29,8 +29,8 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=SalesManagementSoftware)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=CivilStatusSystemNew)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=SalesManagementSoftware)
 
 - Wakatime card
 
