@@ -27,8 +27,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true&include_all_commits=true)
 
-- My repo card '
-
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=SalesManagementSoftware)
