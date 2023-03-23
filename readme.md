@@ -15,19 +15,7 @@
   </p>
 </p>
 
-### Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAlzoriqi&exclude_repo=github-readme-stats,Web-CV,IAlzoriqi.github.io,SalesManagementSoftware,github.com/IAlzoriqi/IAlzoriqi,github.com/IAlzoriqi/IAlzoriqi.github.io&langs_count=5&include-private=true&include_private=true&include_all_repo=true&include_private_repo=true&repo=my_guide_at_my_phone&include_repo=my_guide_at_my_phon)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-# Wakatime Week Stats
-
-[![IAlzoriqi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi&hide_lang=html)](https://github.com/IAlzoriqi/IAlzoriqi)
-
-- GitHub stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IAlzoriqi&count_private=true&show_icons=true&include_all_commits=true)
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=SalesManagementSoftware)
 
 </br>
 
@@ -40,10 +28,6 @@
 </br>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
-
-- Wakatime card
-
-[![IAlzoriqi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IAlzoriqi)](https://github.com/IAlzoriqi/IAlzoriqi)
 
 ---
 
