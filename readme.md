@@ -1,6 +1,6 @@
 <p align="center">
- <h2 align="center">Ibrahim Alzoriqi</h2>
- <p align="center">Mobile Application Devloper</p>
+ <h2 align="center">Ibrahim Shaher Saeed</h2>
+ <p align="center">Software Devloper</p>
 </p>
 
   <p align="center">
@@ -15,19 +15,6 @@
   </p>
 </p>
 
-
-
-</br>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=IAlzoriqi.github.io)
-
-</br>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=CivilStatusSystemNew)
-
-</br>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IAlzoriqi&repo=libraryManagement)
 
 ---
 
